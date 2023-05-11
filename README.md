@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=kotlin,java,ts,nodejs,svelte,rust,golang">
+<img src="https://skillicons.dev/icons?i=java,ts,nodejs,svelte,rust,golang">
 </p>
 
 Hey! I'm **Ravimo**, I enjoy creating things that other people can enjoy.
