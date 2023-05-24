@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,rust">
+<img src="https://skillicons.dev/icons?i=cpp,rust">
 </p>
 
 Hey! I'm **Nikita**, I enjoy creating things that other people can enjoy.
