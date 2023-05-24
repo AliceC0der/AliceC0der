@@ -1,8 +1,8 @@
-# Farlight1337
+# Farlight | 1337
 ---
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=svelte,golang,html,css">
+<img src="https://skillicons.dev/icons?i=c,cpp,rust">
 </p>
 
 Hey! I'm **Nikita**, I enjoy creating things that other people can enjoy.
